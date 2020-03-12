@@ -1,0 +1,19 @@
+body {
+    background-color: #e8f9e9;
+}
+h1 {
+  color: #f688bb;
+  letter-spacing: 10px;
+  text-shadow: 7px 6px #baf1a1;
+}
+h3 {
+  color: #ffb6b9;
+  letter-spacing: 6px;
+  text-shadow: 5px 4px #baf1a1;
+}
+hr {
+  border-color:#baf1a1;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
